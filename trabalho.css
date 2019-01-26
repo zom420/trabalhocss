@@ -1,0 +1,74 @@
+p{
+	font-family: "lora", serif;
+	color: black;
+	font-size: 1.2em;
+	padding-top: 1vh;
+	margin: 30px
+}
+
+h2{
+	font-family: 'Ubuntu Mono', monospace;
+	font-size: 2.1em;
+	padding-top: 1vh;
+	color: goldenrod;
+}
+
+h1{
+	font-family: 'Noto Serif', serif;
+	color: black;
+	background-color: aqua;
+	padding-top: 3vh;
+	font-size: 3em;	
+	margin-bottom: -1px;
+	border-bottom: 1px solid black;
+	text-align: center;
+	margin-top: -1vh;
+}
+
+.atras{
+	background-color: #FFEE58;
+	margin-top: 1px;
+	text-align: right;
+}
+
+.texto{
+	background-color: #FFEE58;
+}
+
+
+
+
+
+a:hover{
+	color:red;
+}
+
+a{
+	text-decoration-color: grey ;
+	display: inline-flex;
+	background-color: #37474F;
+	color: whitesmoke;
+}
+
+
+.container2{
+	background-color: aquamarine;
+}
+
+.container3{
+	background-color: aquamarine;
+}
+
+.container5{
+	background-color: aquamarine;
+}
+
+.container4{
+	background-color:aquamarine;
+	color: black;
+}
+
+.link{
+	background-color: black;
+	color: whitesmoke;
+}
